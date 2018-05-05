@@ -1,0 +1,63 @@
+.thumbnail {
+    max-height: 500px;
+    padding: 20px;
+}
+
+.thumbnail .desc {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.thumbnail img {
+    border-radius: 10%;
+}
+
+.brand-title {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    padding-right: 100px;
+    padding-left: 30px;
+}
+
+.addproduct {
+    background-color: #f0ad4e;
+}
+
+.container {
+    background-color: #1b6d85;
+}
+
+.footer .sitmap a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.footer .sitmap a:hover {
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+    padding: 22px;
+}
+.copyright
+{
+    margin-top: 30px;
+    color: #f0ad4e;
+}
+.sitFooter
+{
+    border-top: solid;
+    color: #0d3625;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 30px;
+    margin-top: 180px;
+    padding: 20px;
+
+}
